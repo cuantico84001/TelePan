@@ -16,4 +16,4 @@ Proyecto para empresa de reparto de pan en la provincia de **Ávila**, se aplica
 
 >Para mayor información consultar [facebook de Telepan](https://www.facebook.com/Telepan-%C3%81vila-441157269309528/)
 
-![Logo de Telepan](../data/logo.jpg "EL MEJOR PAN DE ÁVILA")
+![Logo de Telepan](./data/logo.jpg "EL MEJOR PAN DE ÁVILA")
