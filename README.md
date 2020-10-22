@@ -15,14 +15,14 @@ Proyecto para empresa de reparto de pan en la provincia de **Ávila**, se aplica
 ***
 
 
-![facebook de Telepan](./data/logo.jpg "EL MEJOR PAN DE ÁVILA")
+![facebook de Telepan](./images/logo.jpg "EL MEJOR PAN DE ÁVILA")
 Para mayor información consultar [facebook de Telepan](https://www.facebook.com/Telepan-%C3%81vila-441157269309528/)
 
 ## Case Study
 ***
 Para lo cual seguiremos la metodología [CRISP-DM](https://www.ibm.com/support/knowledgecenter/SS3RA7_sub/modeler_crispdm_ddita/clementine/crisp_help/crisp_overview.html)
 
-![ciclo](./data/crisp_process.jpg "ciclo CRISP-DM") 
+![ciclo](./images/crisp_process.jpg "ciclo CRISP-DM") 
 
 Basada en los siguientes 6 pasos:
 
