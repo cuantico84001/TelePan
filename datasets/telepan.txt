@@ -1,4 +1,4 @@
-cliente, total
+cliente,total
 1, 4.50
 2, 11.20
 3, 23.40
